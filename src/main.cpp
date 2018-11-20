@@ -25,10 +25,6 @@
 #define OPTERRARG (3)
 #define DEFAULT_BIN_NAME "brks"
 
-int optreset = 0;
-int optind = 1;
-int opterr = 1;
-int optopt;
 
 static void create_multi_process(int process_count)
 {
