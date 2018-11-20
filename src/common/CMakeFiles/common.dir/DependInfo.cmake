@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/root/dev_brks/brks/src/common/Logger.cpp" "/root/dev_brks/brks/src/common/CMakeFiles/common.dir/Logger.cpp.o"
   "/root/dev_brks/brks/src/common/event.cpp" "/root/dev_brks/brks/src/common/CMakeFiles/common.dir/event.cpp.o"
   "/root/dev_brks/brks/src/common/events_def.cpp" "/root/dev_brks/brks/src/common/CMakeFiles/common.dir/events_def.cpp.o"
-  "/root/dev_brks/brks/src/common/iniconfig.cpp" "/root/dev_brks/brks/src/common/CMakeFiles/common.dir/iniconfig.cpp.o"
+  "/root/dev_brks/brks/src/common/luaconfig.cpp" "/root/dev_brks/brks/src/common/CMakeFiles/common.dir/luaconfig.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

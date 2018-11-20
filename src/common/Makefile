@@ -252,32 +252,32 @@ events_def.cpp.s:
 	cd /root/dev_brks/brks/src && $(MAKE) -f common/CMakeFiles/common.dir/build.make common/CMakeFiles/common.dir/events_def.cpp.s
 .PHONY : events_def.cpp.s
 
-iniconfig.o: iniconfig.cpp.o
+luaconfig.o: luaconfig.cpp.o
 
-.PHONY : iniconfig.o
+.PHONY : luaconfig.o
 
 # target to build an object file
-iniconfig.cpp.o:
-	cd /root/dev_brks/brks/src && $(MAKE) -f common/CMakeFiles/common.dir/build.make common/CMakeFiles/common.dir/iniconfig.cpp.o
-.PHONY : iniconfig.cpp.o
+luaconfig.cpp.o:
+	cd /root/dev_brks/brks/src && $(MAKE) -f common/CMakeFiles/common.dir/build.make common/CMakeFiles/common.dir/luaconfig.cpp.o
+.PHONY : luaconfig.cpp.o
 
-iniconfig.i: iniconfig.cpp.i
+luaconfig.i: luaconfig.cpp.i
 
-.PHONY : iniconfig.i
+.PHONY : luaconfig.i
 
 # target to preprocess a source file
-iniconfig.cpp.i:
-	cd /root/dev_brks/brks/src && $(MAKE) -f common/CMakeFiles/common.dir/build.make common/CMakeFiles/common.dir/iniconfig.cpp.i
-.PHONY : iniconfig.cpp.i
+luaconfig.cpp.i:
+	cd /root/dev_brks/brks/src && $(MAKE) -f common/CMakeFiles/common.dir/build.make common/CMakeFiles/common.dir/luaconfig.cpp.i
+.PHONY : luaconfig.cpp.i
 
-iniconfig.s: iniconfig.cpp.s
+luaconfig.s: luaconfig.cpp.s
 
-.PHONY : iniconfig.s
+.PHONY : luaconfig.s
 
 # target to generate assembly for a file
-iniconfig.cpp.s:
-	cd /root/dev_brks/brks/src && $(MAKE) -f common/CMakeFiles/common.dir/build.make common/CMakeFiles/common.dir/iniconfig.cpp.s
-.PHONY : iniconfig.cpp.s
+luaconfig.cpp.s:
+	cd /root/dev_brks/brks/src && $(MAKE) -f common/CMakeFiles/common.dir/build.make common/CMakeFiles/common.dir/luaconfig.cpp.s
+.PHONY : luaconfig.cpp.s
 
 # Help Target
 help:
@@ -301,9 +301,9 @@ help:
 	@echo "... events_def.o"
 	@echo "... events_def.i"
 	@echo "... events_def.s"
-	@echo "... iniconfig.o"
-	@echo "... iniconfig.i"
-	@echo "... iniconfig.s"
+	@echo "... luaconfig.o"
+	@echo "... luaconfig.i"
+	@echo "... luaconfig.s"
 .PHONY : help
 
 

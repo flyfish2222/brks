@@ -195,7 +195,7 @@ bool Interface::add_server_socket(int socket)
     }
     else
     {
-        LOG_INFO("process %d listend on 9090 port success.", getpid());
+		LOG_INFO("brks start successful! pid = %d", getpid());
     }
 
     epoll_fd_ = epoll_create(1);

@@ -191,7 +191,7 @@ brks_SOURCE_DIR:STATIC=/root/dev_brks/brks/src
 bus_LIB_DEPENDS:STATIC=general;pthread;general;jsoncpp;general;curl;general;common;
 
 //Dependencies for the target
-common_LIB_DEPENDS:STATIC=general;log4cpp;general;pthread;general;iniparser;general;dl;
+common_LIB_DEPENDS:STATIC=general;log4cpp;general;pthread;general;iniparser;general;dl;general;lua;
 
 //Dependencies for the target
 intf_LIB_DEPENDS:STATIC=general;thrift;general;thriftnb;general;event;

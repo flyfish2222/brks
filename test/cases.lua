@@ -17,8 +17,8 @@ local lu = require('luaunit')
 local client
 
 local opt = {
-    host      = '47.106.79.26',
-    port      = '9090',
+    host      = '127.0.0.1',
+    port      = '9091',
     protocol  = TCompactProtocol,
     transport = TFramedTransport
 }

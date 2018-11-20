@@ -14,4 +14,4 @@ TARGET_LINK_LIBRARIES(common log4cpp)
 TARGET_LINK_LIBRARIES(common pthread)
 TARGET_LINK_LIBRARIES(common iniparser)
 TARGET_LINK_LIBRARIES(common dl)
-
+TARGET_LINK_LIBRARIES(common lua)

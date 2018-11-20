@@ -714,7 +714,6 @@ CMakeFiles/brks.dir/main.cpp.o
  ./common/eventtype.h
  ./common/glo_def.h
  ./common/iEventHandler.h
- ./common/iniconfig.h
  ./intf/interface.h
  ./intf/json_protocol_codec.h
  ./intf/protocol_codec.h
@@ -722,4 +721,5 @@ CMakeFiles/brks.dir/main.cpp.o
  ./service/DispatchMsgService.h
  ./service/MsgQueue.h
  ./service/sqlconnection.h
+ /root/dev_brks/brks/src/common/luaconfig.h
  /root/dev_brks/brks/src/main.cpp

@@ -713,7 +713,6 @@ CMakeFiles/brks.dir/main.cpp.o: ./common/events_def.h
 CMakeFiles/brks.dir/main.cpp.o: ./common/eventtype.h
 CMakeFiles/brks.dir/main.cpp.o: ./common/glo_def.h
 CMakeFiles/brks.dir/main.cpp.o: ./common/iEventHandler.h
-CMakeFiles/brks.dir/main.cpp.o: ./common/iniconfig.h
 CMakeFiles/brks.dir/main.cpp.o: ./intf/interface.h
 CMakeFiles/brks.dir/main.cpp.o: ./intf/json_protocol_codec.h
 CMakeFiles/brks.dir/main.cpp.o: ./intf/protocol_codec.h
@@ -721,5 +720,6 @@ CMakeFiles/brks.dir/main.cpp.o: ./intf/protocol_head.h
 CMakeFiles/brks.dir/main.cpp.o: ./service/DispatchMsgService.h
 CMakeFiles/brks.dir/main.cpp.o: ./service/MsgQueue.h
 CMakeFiles/brks.dir/main.cpp.o: ./service/sqlconnection.h
+CMakeFiles/brks.dir/main.cpp.o: common/luaconfig.h
 CMakeFiles/brks.dir/main.cpp.o: main.cpp
 
