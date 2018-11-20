@@ -20,11 +20,6 @@
 #include <fcntl.h>
 #include "common/luaconfig.h"
 
-#define OPTERRCOLON (1)
-#define OPTERRNF (2)
-#define OPTERRARG (3)
-#define DEFAULT_BIN_NAME "brks"
-
 
 static void create_multi_process(int process_count)
 {
